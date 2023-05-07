@@ -1,0 +1,11 @@
+{
+    "users" : [
+        {
+            "id": 1,
+            "name": "Borya",
+            "sirname": "Vanin",
+            "photo_url": "",
+            "balance": 200
+        }
+    ]
+}
