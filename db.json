@@ -6,8 +6,7 @@
             "sirname": "Vanin",
             "photo_url": "",
             "balance": 2000
-        }
-
+        },
         {
             "id": 2,
             "name": "Yura",
@@ -15,7 +14,7 @@
             "photo_url": "",
             "balance": 1000
         }
-    ]
+    ],
     "products" : [
         {
             "id": 1,
