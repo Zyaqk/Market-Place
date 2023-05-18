@@ -59,7 +59,7 @@ button {
 #cart {
     position: relative;
 }
-#cart-button img {
+#cart-button i {
     max-width: 32px;
     max-height: 32px;
 }

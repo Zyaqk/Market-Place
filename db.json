@@ -20,34 +20,50 @@
         {
             "id": 1,
             "name": "RED Display",
-            "descriptions": "This is gud",
-            "price": 100,
+            "descriptions": "This isdfs gud",
+            "price": 1030,
             "author_id": 1,
-            "photo_url": "https://i.seadn.io/gae/UZ9trsMF2D5zEucUN89bH6Rw-ANgxPw0G6fyYGXmRLd8lidakhx189kxCbg7Y0_t0-xh_cnH_xawHOjM7uCO1h0HJiSbWW6oBjj64g?auto=format&dpr=1&w=512"
+            "photo_url": "imgs/idone.png"
         },
         {
             "id": 2,
             "name": "RED Display",
-            "descriptions": "This is gud",
-            "price": 100,
+            "descriptions": "Thgsfdis is gud",
+            "price": 1200,
             "author_id": 2,
-            "photo_url": "https://i.seadn.io/gae/4IrW8LtNnJejyfHjsR_NoyNY_d1Z6bcXyuMAOw7Lmn6NeIe77xhdNQ57Uhi3bv2w39eWj48bTvQWOjIuysFmejenVEaqGk8B497J?auto=format&dpr=1&w=512"
+            "photo_url": "imgs/idtwo.png"
         },
         {
             "id": 3,
             "name": "RED Display",
-            "descriptions": "This is gud",
-            "price": 100,
+            "descriptions": "Thiafgs iasfdfass gud",
+            "price": 1300,
             "author_id": 3,
-            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8UaO8zvh5DjMIZ3C-jUQyIdtnCH9VUBvPRCZIbf60YQ&s"
+            "photo_url": "imgs/idthree.png"
         },
         {
             "id": 4,
             "name": "RED Display",
-            "descriptions": "This is gud",
-            "price": 100,
+            "descriptions": "Thiasgs issafddas gud",
+            "price": 1040,
             "author_id": 4,
-            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8UaO8zvh5DjMIZ3C-jUQyIdtnCH9VUBvPRCZIbf60YQ&s"
+            "photo_url": "imgs/idgour.png"
+        },
+        {
+            "id": 5,
+            "name": "RED Display",
+            "descriptions": "This idsfgdss gud",
+            "price": 1500,
+            "author_id": 5,
+            "photo_url": "imgs/idfive.png"
+        },
+        {
+            "id": 6,
+            "name": "RED Display",
+            "descriptions": "Thsdfdsfis is gud",
+            "price": 6100,
+            "author_id": 6,
+            "photo_url": "imgs/idsex.png"
         },
     ]
 }
