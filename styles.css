@@ -1,0 +1,24 @@
+.user {
+    width: 580px;
+    height: auto;
+    padding: 10px 10px;
+    background-color: antiquewhite;
+    border-radius: 25px;
+}
+
+.goods {
+    width: auto;
+    height: 350px;
+    padding: 10px 10px;
+    background-color: antiquewhite;
+    border-radius: 25px;
+}
+
+main, header {
+    margin: 5vh 10vw;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
