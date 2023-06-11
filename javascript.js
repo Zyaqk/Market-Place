@@ -3,6 +3,9 @@ let productsArray = [];
 let xhr = new XMLHttpRequest();
 let url = 'https://my-json-server.typicode.com/Zyaqk/Market-plays';
 
+let cartProd = document.getElementById('cart-products');
+let cart = []
+
 xhr.open('GET',url + '/products');
 xhr.responseType = 'json'
 xhr.onload = function() {
@@ -25,8 +28,16 @@ xhr.onload = function() {
 }
 xhr.send();
 
+function openCart() {
+    cartProd.classList.toggle('hide');
+}
 
-
+function addProductToCart(id){
+    let product = productsArray.find(function(p){
+        return p.id == id
+    })
+    cart.push(product)
+}
 
 
 
@@ -102,6 +113,3 @@ xhr.send();
 //     localStorage.setItem("cart", '[]');
 // }
 
-// function openCart() {
-//     cartProd.classList.toggle('hide');
-// }
